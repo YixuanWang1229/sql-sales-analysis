@@ -1,0 +1,8 @@
+customer_id,customer_name,city,segment
+101,Alice,Melbourne,Consumer
+102,Bob,Sydney,Corporate
+103,Charlie,Brisbane,Consumer
+104,David,Perth,Home Office
+105,Emma,Adelaide,Corporate
+106,Frank,Canberra,Consumer
+107,Grace,Hobart,Home Office
